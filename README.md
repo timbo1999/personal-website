@@ -14,6 +14,6 @@ There are many libraries that needs to be installed in order for the program to 
 
 `pip install -r requirements.txt`
 
-After installing all the necessary packages and libraries, run the program as usual and a result_csv file should appear in your directory. Running the program will take around a minute to fully execute
+After installing all the necessary packages and libraries, run the program as usual and a result.csv file should appear in your directory. Running the program will take around a minute to fully execute
 
 
